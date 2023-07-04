@@ -9,8 +9,18 @@
 
 E-Mail <img src="https://img.shields.io/badge/glwnsgh123@icloud.com-FFFFFF?style=flat-square&logo=icloud&logoColor=blue"/> 
 
+
+<h3>이승우</h3>
+<img src="" width="20%" height="30%"><br>
+<a><b>역할</b></a><br>
+<li>외형제작</li>
+<li>센서 작동 개발</li>
+<li>발표자료 제작</li>
+
+E-Mail <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
+
 <h3>한수호</h3>
-<img src="" width="20%" height="30%">
+<img src="https://github.com/imgenuis/Project_LeeJunHo/assets/88388142/a49b8468-40ed-46d6-9fdc-2eef0d684424" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <li>외형제작</li>
 <li>센서 작동 개발</li>
