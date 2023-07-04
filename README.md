@@ -2,7 +2,7 @@
 <h2>팀 소개</h2>
 
 <h3>이준호(팀장)</h3>
-<img src="https://user-images.githubusercontent.com/88388142/209081535-f8e415b3-2d9a-4ed7-a8c0-36d384b0cf6e.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/88388142/209081535-f8e415b3-2d9a-4ed7-a8c0-36d384b0cf6e.png" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <li>총괄</li>
 <li>외형제작</li>
