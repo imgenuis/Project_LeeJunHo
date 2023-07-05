@@ -29,6 +29,7 @@ E-Mail <img src="https://img.shields.io/badge/github.com/leeseowoo0810-FFFFFF?st
 <li>발표자료 제작</li>
 <li>문서 제작</li>
 E-Mail <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
+
 <h2>프로젝트 개요</h2>
 블랙아이스로 인한 사고 예방
 <h2>프로젝트 주제 및 선정 배경</h2>
@@ -45,4 +46,5 @@ E-Mail <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=
 <li>DC펌프를 이용한 용액 공급</li>
 <li>도트 매트릭스를 이용한 문구 출력</li>
 <li>C#을 이용하여 도로 API를 불러온 뒤, 아두이노와 연동하여 센서 값 출력</li>
+
 
