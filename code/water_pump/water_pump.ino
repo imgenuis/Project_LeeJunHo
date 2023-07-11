@@ -1,4 +1,4 @@
-int relay=4;
+int relay=7;
 void setup() {
   pinMode(relay, OUTPUT);  
   digitalWrite(relay, LOW);  
